@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "totalRecord": 10,
+    "data": [
+      {
+        "news_id": 1,
+        "image":"https://1.bp.blogspot.com/-crbn9uE0Uew/YCULrffJiKI/AAAAAAAAAH8/Vh54wW4MGLEwMimYHNcxCQzKzHpUm0x2wCLcBGAsYHQ/s480/1.jpg",
+        "title": "Shipbuilders Mark Columbia Milestone",
+        "publishDate":"Feb 09, 2020"
+      },
+       {
+        "news_id": 2,
+        "image":"https://1.bp.blogspot.com/-djEl_ZPQhOk/YCULrYm9eTI/AAAAAAAAAH0/tvr6cAkPoy4m05CvBbemgcIF_nIsP6znwCLcBGAsYHQ/s480/2.jpg",
+        "title": "Doctors Urge Shipbuilders to Get COVID-19 Vaccine",
+        "publishDate" : "Feb 15, 2020"
+      },
+       {
+        "news_id": 3,
+        "image" :"https://nnsdevelopment.wpengine.com/wp-content/uploads/2021/02/feature-image1.png",
+        "title": "FirstREMINDER: HII Insider Trading Policy",
+        "publishDate" : "Feb 17, 2020"
+      },
+       {
+        "news_id": 4,
+        "image":"https://nnsdevelopment.wpengine.com/wp-content/uploads/2021/02/feature-image1.png",
+        "title": "Zone Parking to Begin March 15",
+        "publishDate" : "Nov 16, 2020"
+      }
+    ]
+  }
+}

@@ -1,1 +1,48 @@
-{"code":200,"data":{"totalRecord":10,"data_specialAlert":[{"alert_id":1,"colorCode":"#fff","title":"ABBBB"}]}}
+{
+  "code": 200,
+  "data": {
+    "totalRecord": 10,
+    "data_specialAlert": [
+      {
+        "alert_id": 1,
+        "colorCode": "#FE9600",
+        "title": "Confirmed Cases of COVID-19 at Newport News Shipbuilding"
+      },
+        {
+        "alert_id": 2,
+        "colorCode": "#EA1C2C",
+        "title": "(COVID-19) 411 Website"
+      },
+        {
+        "alert_id": 3,
+        "colorCode": "#FE9600",
+        "title": "Confirmed Cases of COVID-19 at Newport News Shipbuilding"
+      },
+        {
+        "alert_id": 4,
+        "colorCode": "#EA1C2C",
+        "title": "(COVID-19) 411 Website"
+      },
+        {
+        "alert_id": 5,
+        "colorCode": "#FE9600",
+        "title": "Confirmed Cases of COVID-19 at Newport News Shipbuilding"
+      },
+        {
+        "alert_id": 6,
+        "colorCode": "#EA1C2C",
+        "title": "(COVID-19) 411 Website"
+      },
+        {
+        "alert_id": 7,
+        "colorCode": "#FE9600",
+        "title": "Confirmed Cases of COVID-19 at Newport News Shipbuilding"
+      },
+        {
+        "alert_id": 8,
+        "colorCode": "#EA1C2C",
+        "title": "(COVID-19) 411 Website REMINDER: Consistency in Allocating Costs Charging similar costs as indirect on one contract but direct on another contract is a Cost Accounting Standards (CAS) noncompliance."
+      }
+    ]
+  }
+}

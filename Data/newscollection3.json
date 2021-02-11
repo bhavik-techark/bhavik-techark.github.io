@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "totalRecord": 10,
+    "data": [
+      {
+        "news_id": 1,
+        "image":"https://1.bp.blogspot.com/-DxLkzaLgY-g/YCULsHFOrcI/AAAAAAAAAIA/TMjIUGkl8U8ZQIk2j7oQ4vealhDhg_1SgCLcBGAsYHQ/s480/4.jpg",
+        "title": "ENGAGMENT: Shipbuilders Mark Columbia Milestone",
+        "publishDate":"Feb 09, 2020"
+      },
+       {
+        "news_id": 2,
+        "image":"https://1.bp.blogspot.com/-B9mtbEzBLGA/YCULrQyA_kI/AAAAAAAAAH4/WJx3r4X4wkA-mzmJS5X53aS546xwMEpMgCLcBGAsYHQ/s480/3.jpg",
+        "title": "ENGAGMENT: Doctors Urge Shipbuilders to Get COVID-19 Vaccine",
+        "publishDate" : "Feb 15, 2020"
+      },
+       {
+        "news_id": 3,
+        "image" :"https://nnsdevelopment.wpengine.com/wp-content/uploads/2021/02/feature-image1.png",
+        "title": "ENGAGMENT:FirstREMINDER: HII Insider Trading Policy",
+        "publishDate" : "Feb 17, 2020"
+      },
+   {
+        "news_id": 4,
+        "image":"https://1.bp.blogspot.com/-crbn9uE0Uew/YCULrffJiKI/AAAAAAAAAH8/Vh54wW4MGLEwMimYHNcxCQzKzHpUm0x2wCLcBGAsYHQ/s480/1.jpg",
+        "title": "ENGAGMENT:Shipbuilders Mark Columbia Milestone",
+        "publishDate":"Feb 09, 2020"
+      },
+    ]
+  }
+}
